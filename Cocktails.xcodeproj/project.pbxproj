@@ -111,7 +111,6 @@
 		4F65BE80250CC044007B8A55 /* Cocktails */ = {
 			isa = PBXGroup;
 			children = (
-				4FFDA80B2516098200CA84A2 /* New Group */,
 				4FCCAFB6250E1BFA00B2FA63 /* ReadME.docx */,
 				4FCCAFB7250E1C2900B2FA63 /* Services */,
 				4F65BEA3250CE5D8007B8A55 /* Model */,
@@ -213,13 +212,6 @@
 				4F65BEA6250CF8A8007B8A55 /* NetworkManager.swift */,
 			);
 			name = Services;
-			sourceTree = "<group>";
-		};
-		4FFDA80B2516098200CA84A2 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		BD4A276D1CBB6267006A1831 /* Frameworks */ = {
